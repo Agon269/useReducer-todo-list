@@ -2,7 +2,7 @@
 ## list is stored inside the browser
 Live demo can be found  [here](https://laughing-knuth-997e1e.netlify.app/).
 
-## Available Scripts
+## To run locally
 
 In the project directory, you can run:
 
