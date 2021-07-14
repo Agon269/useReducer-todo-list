@@ -1,6 +1,6 @@
 # Just a todlo list app i made to practice useReducer hook in react
 ## list is stored inside the browser
-Live demo can be found at [Create React App](https://laughing-knuth-997e1e.netlify.app/).
+Live demo can be found  [here](https://laughing-knuth-997e1e.netlify.app/).
 
 ## Available Scripts
 
