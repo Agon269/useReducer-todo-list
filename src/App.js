@@ -50,7 +50,7 @@ function App() {
       />
       <Box p={8}>
         <Heading fontWeight="extrabold" size="2xl">
-          App
+          Todo
         </Heading>
       </Box>
       <TododList todos={todos} deleteTodo={deleteTodo} />
